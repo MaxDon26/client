@@ -20,6 +20,7 @@ const Wrapper = styled.div`
 `;
 
 function App() {
+  console.log("common");
   return (
     <div className="App">
       <Wrapper>
