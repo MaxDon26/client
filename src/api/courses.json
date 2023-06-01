@@ -1,0 +1,68 @@
+[
+  {
+    "title": "День 1",
+    "image": "https://client.tvoyfreelance.com/account/files/cover/files/874.jpg",
+    "isActive": true,
+    "content": {
+      "images": [
+        "/src/assets/day11.jpg",
+        "/src/assets/day12.jpg",
+        "/src/assets/day13.jpg"
+      ]
+    }
+  },
+  {
+    "title": "День 2",
+    "image": "https://client.tvoyfreelance.com/account/files/cover/files/875.jpg",
+    "isActive": true,
+    "content": {
+      "images": [
+        "/src/assets/day21.jpg",
+        "/src/assets/day22.jpg",
+        "/src/assets/day23.jpg",
+        "/src/assets/day24.jpg"
+      ]
+    }
+  },
+  {
+    "title": "День 3",
+    "image": "https://client.tvoyfreelance.com/account/files/cover/files/876.jpg",
+    "isActive": true
+  },
+  {
+    "title": "День 4",
+    "image": "https://client.tvoyfreelance.com/account/files/cover/files/877.jpg",
+    "isActive": true
+  },
+  {
+    "title": "День 5",
+    "image": "https://client.tvoyfreelance.com/account/files/cover/files/878.jpg",
+    "isActive": true
+  },
+
+  {
+    "title": "День 6",
+    "image": "https://client.tvoyfreelance.com/account/files/cover/files/879.jpg",
+    "isActive": true
+  },
+  {
+    "title": "День 7",
+    "image": "https://client.tvoyfreelance.com/account/files/cover/files/880.jpg",
+    "isActive": false
+  },
+  {
+    "title": "День 8",
+    "image": "https://client.tvoyfreelance.com/account/files/cover/files/881.jpg",
+    "isActive": false
+  },
+  {
+    "title": "День 9",
+    "image": "https://client.tvoyfreelance.com/account/files/cover/files/882.jpg",
+    "isActive": false
+  },
+  {
+    "title": "День 10",
+    "image": "https://client.tvoyfreelance.com/account/files/cover/files/883.jpg",
+    "isActive": false
+  }
+]
